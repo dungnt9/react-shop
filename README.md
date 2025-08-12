@@ -1,13 +1,8 @@
-# Welcome
-
-### `npm start`
-
-## Project Setup
-
-### Installation
+### Begin
 
 ```bash
 npm install
+npm start
 ```
 
 ### API Requirements
